@@ -1,3 +1,0 @@
-## Simple Linear Regression Model
-
-
